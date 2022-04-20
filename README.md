@@ -1,4 +1,4 @@
-# Boas vindas ao repositório backend do projeto de Deploy - Stranger Things!
+# Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
 
 Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> para fins educacionais e divulgado publicamente como portfólio de aprendizado. 
 
